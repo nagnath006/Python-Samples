@@ -1,0 +1,110 @@
+Exploratory Software Testing
+
+0 That the existence of planets orbiting distant stars (so called extrasolar
+planets or exoplanets) has been theorized at least since Isaac Newton
+hypothesized the possibility in 1713.2 Various astronomers have used
+exoplanets to explain rotational anomalies in various stars, including
+Peter van de Karnp in 1969, who explained wobbles in the motion of
+Barnard’s star by the presence of a planet 1.6 times the mass of Jupiter.
+However, all of this was speculation until 2003, when the first actual
+exoplanet was confirmed. The difference wasn’t new science but the
+use of software to advance and aid existing science. It was only after the
+software-assisted invention of ultrasensitive instruments and the use of
+software to analyze the data they return that such accuracy became pos-
+sible. By 2006, only 3 years later, more than 200 exoplanets had been
+discovered, and more than 300 exoplanets have been confirmed as of
+this writing.3
+It’s hard to imagine that the instruments necessary to perform such a
+search would be possible without software, which played a role not
+only in the design and use of the instruments themselves but also in the
+analysis of the data they produce. And now, thanks again to software,
+the universe is as close as your home computer, vastly increasing the
+number of eyes looking for exoplanets. If an earthlike exoplanet is ever
+found, you may rest assured that the magic of software will be central
+to its discovery and confirmation.
+
+0 That the ability for the autistic to communicate has long been a subject
+of argument, with many experts arguing against parents and caregivers
+who claim to understand their charges. Is the meaning of what seem to
+be random and uncontrollable body movements simply in a language
+that the nonautistic cannot translate? Could the power of software
+bridge this gap?
+
+For example, a YouTube video4 was produced by a “severely” autistic
+girl using specialized software and input / output devices that allowed
+her to translate her body language into English. I think Arthur C.
+Clarke himself would have been pleased at this most astounding and
+humanizing bit of technological magic.
+
+I could cite many more such cases, and even a cursory look at the world
+around us would bear witness to many more. The rapid societal, technolog-
+ical, and cultural changes of the past 50 years dwarf any such change in any
+other period of human existence. Certainly war, radio, television, and the
+automobile have had their effect on our society, but now all those also fall
+under the domain of software, for war is waged with software-driven tech-
+nology, and all of our most sophisticated inventions have been made more
+so by software. The more software a device contains, the more it is indistin—
+guishable from magic.
+
+2 In Philosophiae Nataralis Principia Mathematica.
+3 A good history appears at http: / /en.wikipedia.org/wiki/Extrasolar_planet#cite_note-13.
+
+4 www.youtube.com/watch?v=]nylM1h12jc or search for “the language of autism.”
+
+www.it-ebooks.info
+
+Exploratory Software Testing
+
+0 That the existence of planets orbiting distant stars (so called extrasolar
+planets or exoplanets) has been theorized at least since Isaac Newton
+hypothesized the possibility in 1713.2 Various astronomers have used
+exoplanets to explain rotational anomalies in various stars, including
+Peter van de Karnp in 1969, who explained wobbles in the motion of
+Barnard’s star by the presence of a planet 1.6 times the mass of Jupiter.
+However, all of this was speculation until 2003, when the first actual
+exoplanet was confirmed. The difference wasn’t new science but the
+use of software to advance and aid existing science. It was only after the
+software-assisted invention of ultrasensitive instruments and the use of
+software to analyze the data they return that such accuracy became pos-
+sible. By 2006, only 3 years later, more than 200 exoplanets had been
+discovered, and more than 300 exoplanets have been confirmed as of
+this writing.3
+It’s hard to imagine that the instruments necessary to perform such a
+search would be possible without software, which played a role not
+only in the design and use of the instruments themselves but also in the
+analysis of the data they produce. And now, thanks again to software,
+the universe is as close as your home computer, vastly increasing the
+number of eyes looking for exoplanets. If an earthlike exoplanet is ever
+found, you may rest assured that the magic of software will be central
+to its discovery and confirmation.
+
+0 That the ability for the autistic to communicate has long been a subject
+of argument, with many experts arguing against parents and caregivers
+who claim to understand their charges. Is the meaning of what seem to
+be random and uncontrollable body movements simply in a language
+that the nonautistic cannot translate? Could the power of software
+bridge this gap?
+
+For example, a YouTube video4 was produced by a “severely” autistic
+girl using specialized software and input / output devices that allowed
+her to translate her body language into English. I think Arthur C.
+Clarke himself would have been pleased at this most astounding and
+humanizing bit of technological magic.
+
+I could cite many more such cases, and even a cursory look at the world
+around us would bear witness to many more. The rapid societal, technolog-
+ical, and cultural changes of the past 50 years dwarf any such change in any
+other period of human existence. Certainly war, radio, television, and the
+automobile have had their effect on our society, but now all those also fall
+under the domain of software, for war is waged with software-driven tech-
+nology, and all of our most sophisticated inventions have been made more
+so by software. The more software a device contains, the more it is indistin—
+guishable from magic.
+
+2 In Philosophiae Nataralis Principia Mathematica.
+3 A good history appears at http: / /en.wikipedia.org/wiki/Extrasolar_planet#cite_note-13.
+
+4 www.youtube.com/watch?v=]nylM1h12jc or search for “the language of autism.”
+
+www.it-ebooks.info
+
